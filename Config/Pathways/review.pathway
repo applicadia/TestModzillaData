@@ -1,7 +1,0 @@
-{
-  "treePath": "cfg.pathways",
-  "type": "Pathway",
-  "id": "review",
-  "title": "Ballot Review - Pathways",
-  "description": "Workflow to organize clinical content review."
-}
