@@ -1,0 +1,7 @@
+{
+  "treePath": "cfg.roles.regulatory",
+  "type": "Role",
+  "id": "regfacil",
+  "title": "Regulatory Facilitator",
+  "description": null
+}

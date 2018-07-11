@@ -1,0 +1,18 @@
+{
+  "description": null,
+  "password": "maxine612548",
+  "organizationList": [],
+  "groupList": [],
+  "roleList": [],
+  "projectList": [
+    "models.sandbox.qunSandbox",
+    "models.cancer.breastcancer.breastCancerTnmStaging"
+  ],
+  "pathwayList": [],
+  "treePath": null,
+  "type": "User",
+  "id": "qun.liu@siemens-healthineers.com",
+  "text": "MaxineLiu",
+  "children": null,
+  "properties": {}
+}

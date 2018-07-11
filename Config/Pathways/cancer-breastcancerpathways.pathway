@@ -1,0 +1,10 @@
+{
+  "treePath": "cfg.pathways.cancer",
+  "order": 0.0,
+  "type": "Pathway",
+  "id": "breastCancerPathways",
+  "title": "Breast Cancer Clinical-Pathways",
+  "description": "Parent project for all Breast Cancer related Clinical Pathways.",
+  "userId": "richard.esmond@gmail.com",
+  "timeStamp": "2018-03-10T13:27:44.7816494-06:00"
+}

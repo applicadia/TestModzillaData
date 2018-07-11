@@ -1,0 +1,24 @@
+{
+  "description": null,
+  "password": "Ndma5724",
+  "organizationList": [],
+  "groupList": [],
+  "roleList": [],
+  "projectList": [
+    "radiology",
+    "cancer",
+    "cancer.breastcancer",
+    "cancer.breastcancer.breastcancertnmstaging",
+    "cancer.breastcancer.breastradiologyreporting",
+    "cancer.breastcancer.breastriskassessment",
+    "cancer.breastcancer.form_breast_bmk"
+  ],
+  "pathwayList": [],
+  "requirementsList": [],
+  "treePath": null,
+  "type": "User",
+  "id": "gord.mawdsley@sunnybrook.ca",
+  "text": "Gord Mawdsley",
+  "children": null,
+  "properties": {}
+}

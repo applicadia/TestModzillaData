@@ -1,0 +1,22 @@
+{
+  "description": null,
+  "password": "E6vV3ZaJZVPGknExqeDDd7f4ry",
+  "organizationList": [
+    "regulatory.cancercareontario"
+  ],
+  "groupList": [],
+  "roleList": [],
+  "projectList": [
+    "models.cancer.breastcancer.breastCancerTnmStaging",
+    "cancer.breastcancer",
+    "cancer.breastcancer.breastradiologyreporting"
+  ],
+  "pathwayList": [],
+  "requirementsList": [],
+  "treePath": null,
+  "type": "User",
+  "id": "alex.goel@cancercare.on.ca",
+  "text": "E6vV3ZaJZVPGknExqeDDd7f4ry",
+  "children": null,
+  "properties": {}
+}

@@ -1,0 +1,7 @@
+{
+  "treePath": "cfg.roles.managers",
+  "type": "Role",
+  "id": "admin",
+  "title": "Platform Administrator",
+  "description": null
+}

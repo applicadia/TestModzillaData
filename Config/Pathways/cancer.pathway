@@ -1,0 +1,7 @@
+{
+  "treePath": "cfg.pathways",
+  "type": "Pathway",
+  "id": "cancer",
+  "title": "Cancer Clinical-Pathway",
+  "description": "Cancer related Clinical Pathways."
+}

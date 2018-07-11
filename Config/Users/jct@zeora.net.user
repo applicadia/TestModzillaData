@@ -1,0 +1,18 @@
+{
+  "description": null,
+  "password": "p1234",
+  "organizationList": [],
+  "groupList": [],
+  "roleList": [],
+  "projectList": [
+    "general.test"
+  ],
+  "pathwayList": [],
+  "requirementsList": [],
+  "treePath": null,
+  "type": "User",
+  "id": "jct@zeora.net",
+  "text": "Jose",
+  "children": null,
+  "properties": {}
+}

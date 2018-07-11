@@ -1,0 +1,18 @@
+{
+  "description": null,
+  "password": "filbit",
+  "organizationList": [],
+  "groupList": [],
+  "roleList": [
+    "advocate.physicians.pathologist"
+  ],
+  "projectList": [],
+  "pathwayList": [],
+  "requirementsList": [],
+  "treePath": null,
+  "type": "User",
+  "id": "doc@md.org",
+  "text": "Clinical Reviewer",
+  "children": null,
+  "properties": {}
+}

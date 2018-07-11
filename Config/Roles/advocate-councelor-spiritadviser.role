@@ -1,0 +1,13 @@
+{
+  "pathwayRefList": null,
+
+  "treePath": "cfg.roles.advocate.councelor",
+  "order": 0.0,
+  "type": "Role",
+  "id": "SpiritAdviser",
+  "title": "Spiritual Advisor",
+  "description": "",
+  "userId": "richard.esmond@gmail.com",
+
+  "timeStamp": "2018-03-26T07:02:39.3948727-05:00"
+}

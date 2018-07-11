@@ -1,0 +1,7 @@
+{
+  "treePath": "cfg.roles.managers",
+  "type": "Role",
+  "id": "scrum",
+  "title": "Project Scrum-Master",
+  "description": null
+}

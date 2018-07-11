@@ -1,0 +1,12 @@
+{
+
+  "treePath": "cfg.roles.sme.diagrad",
+  "order": 0.0,
+  "type": "Role",
+  "id": "breastRadiologist",
+  "title": "Breast Radiologist",
+  "description": "A Radiologist that specializes in Breast Imaging.",
+  "userId": "richard.esmond@gmail.com",
+
+  "timeStamp": "2018-03-11T16:54:27.5298392-05:00"
+}

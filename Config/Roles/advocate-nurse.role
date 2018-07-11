@@ -1,0 +1,13 @@
+{
+  "pathwayRefList": null,
+
+  "treePath": "cfg.roles.advocate",
+  "order": 0.0,
+  "type": "Role",
+  "id": "Nurse",
+  "title": "Nurse",
+  "description": "",
+  "userId": "richard.esmond@gmail.com",
+
+  "timeStamp": "2018-03-26T06:59:16.4732144-05:00"
+}

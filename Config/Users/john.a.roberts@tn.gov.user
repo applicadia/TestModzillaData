@@ -1,0 +1,15 @@
+{
+  "description": null,
+  "password": "Campbell",
+  "organizationList": [],
+  "groupList": [],
+  "roleList": [],
+  "projectList": [],
+  "pathwayList": [],
+  "treePath": null,
+  "type": "User",
+  "id": "john.a.roberts@tn.gov",
+  "text": "JohnRoberts",
+  "children": null,
+  "properties": {}
+}

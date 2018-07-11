@@ -1,0 +1,7 @@
+{
+  "treePath": "cfg.roles.regulatory",
+  "type": "Role",
+  "id": "regrep",
+  "title": "Regulatory Representitive",
+  "description": null
+}

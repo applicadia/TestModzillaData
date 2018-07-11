@@ -1,0 +1,19 @@
+{
+  "description": null,
+  "password": "puce9999",
+  "organizationList": [
+  ],
+  "groupList": [],
+  "roleList": [
+  ],
+  "projectList": [
+    "models.cancer.breastcancer.breastCancerTnmStaging"
+  ],
+  "pathwayList": [],
+  "treePath": null,
+  "type": "User",
+  "id": "ewhitacre@gmail.com",
+  "text": "Eric Whitacre (Breast Surgeon)",
+  "children": null,
+  "properties": {}
+}

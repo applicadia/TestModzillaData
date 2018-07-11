@@ -1,0 +1,13 @@
+{
+  "pathwayRefList": null,
+
+  "treePath": "cfg.roles.advocate.layroles",
+  "order": 0.0,
+  "type": "Role",
+  "id": "SocialWorker",
+  "title": "Social Worker",
+  "description": "",
+  "userId": "richard.esmond@gmail.com",
+
+  "timeStamp": "2018-03-26T06:58:54.9124418-05:00"
+}

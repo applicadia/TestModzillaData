@@ -1,0 +1,12 @@
+{
+
+  "treePath": "cfg.roles.tech",
+  "order": 0.0,
+  "type": "Role",
+  "id": "guru",
+  "title": "All-Around Nerd Hero",
+  "description": "",
+  "userId": "richard.esmond@gmail.com",
+
+  "timeStamp": "2018-02-25T16:46:51.4092429-06:00"
+}

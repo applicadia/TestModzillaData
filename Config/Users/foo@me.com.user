@@ -1,0 +1,21 @@
+{
+  "description": null,
+  "password": "filbit",
+  "organizationList": [
+    "vendors.epic"
+  ],
+  "groupList": [],
+  "roleList": [],
+  "projectList": [
+    "sandbox.cimimeeting",
+    "cancer.breastcancer.breastcancertnmstaging"
+  ],
+  "pathwayList": [],
+  "requirementsList": [],
+  "treePath": null,
+  "type": "User",
+  "id": "foo@me.com",
+  "text": "Test User",
+  "children": null,
+  "properties": {}
+}

@@ -1,0 +1,40 @@
+{
+  "description": null,
+  "password": "filbit",
+  "organizationList": [],
+  "groupList": [],
+  "roleList": [],
+  "projectList": [
+    "sandbox.gernssandbox",
+    "sandbox.newsandbox",
+    "sandbox.richardsandbox",
+    "sandbox.richardssubstructuresandbox",
+    "tooling.cimi.achetypedefinitionlanguageadl",
+    "tooling.cimi.basemetamodelbmm",
+    "cancer.breastcancer.breastcancertnmstaging",
+    "sandbox.richardtestprojectii",
+    "tooling.cimi",
+    "tooling.clinical",
+    "tooling.common",
+    "tooling.penrad",
+    "tooling.platformmetamodel",
+    "tooling.evinance",
+    "tooling.cimcore",
+    "cancer.breastcancer.form_breast_bmk",
+    "tooling.federalhealthcareinformationmodelfhim",
+    "tooling.solor",
+    "tooling.snomedct",
+    "tooling.fhirstructureddefs",
+    "cancer.breastcancer.breastradiologyreporting"
+  ],
+  "pathwayList": [],
+  "requirementsList": [
+    "sandbox.richardsrequirements"
+  ],
+  "treePath": null,
+  "type": "User",
+  "id": "richard@penrad.com",
+  "text": "Richard (PenRad)",
+  "children": null,
+  "properties": {}
+}

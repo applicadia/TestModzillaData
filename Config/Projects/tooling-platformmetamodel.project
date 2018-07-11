@@ -1,0 +1,12 @@
+{
+
+  "treePath": "tooling",
+  "order": 0.0,
+  "type": "Project",
+  "id": "platformMetaModel",
+  "title": "Platform Meta-Model",
+  "description": "Project to define Properties for the fields that are used to define Target Implementation Platforms.",
+  "userId": "richard.esmond@gmail.com",
+
+  "timeStamp": "2018-04-14T08:39:34.4086731-05:00"
+}

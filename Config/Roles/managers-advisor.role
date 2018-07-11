@@ -1,0 +1,7 @@
+{
+  "treePath": "cfg.roles.managers",
+  "type": "Role",
+  "id": "advisor",
+  "title": "Advisory Council",
+  "description": null
+}
